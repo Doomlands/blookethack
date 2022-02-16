@@ -1,5 +1,5 @@
 # BlooketHacks
-
+MOST HACKS ARE DOWN PLEASE CHECK BACK IN 24 HOURS
 Paste code into console.
 
 

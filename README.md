@@ -1,10 +1,5 @@
 # BlooketHacks
-Long story short we kinda got our hacks taken down
-Paste code into console.
+Long story short we kinda got our hacks taken down by Blooket
+Currently working to get them back up, Blooket is kinda being difficult with us 
 
-
-For links, copy link and paste into search engine.
-
-
-
-Thanks For Using My Codes!
+CHECK BACK IN 2-3 WEEKS

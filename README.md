@@ -1,8 +1,8 @@
 # BlooketHacks
-Long story short we kinda got our hacks taken down by Blooket
-Currently working to get them back up, Blooket is kinda being difficult with us 
+Hey guys all hacks are now working!
 
-UPDATE!  
 
-We got a cease and desist from blooket. They are making threats  ALL GLOBAL CODES WORK
-free coins code works NOW_
+If you find any bug that prevents the code from working, please submit an issue or pull request.
+
+
+Thanks, Gsnipes1blookethacks,Parksauce

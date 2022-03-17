@@ -1,5 +1,5 @@
 # BlooketHacks
-DO NOT USE ANY CODES OTHER THAN FREE COINS
-1 MONTH BANN WILL OCOUR IF USED
+All Global Codes Work Now
+
 
 Thanks, Gsnipes1blookethacks,Park-Sauce

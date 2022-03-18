@@ -8,9 +8,9 @@ Only global codes are working with updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
-| specific codes  | :x:                |
+| game mode codes  | :x:                |
 | all answers correct  | :white_check_mark: |
-| other codes  | :x:                |
+| code update in next 24 hours  | ✅:                |
 
 ## Reporting a Vulnerability
 

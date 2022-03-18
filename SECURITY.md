@@ -7,10 +7,10 @@ Only global codes are working with updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 500 coins  | :white_check_mark: |
+| specific codes  | :x:                |
+| all answers correct  | :white_check_mark: |
+| other codes  | :x:                |
 
 ## Reporting a Vulnerability
 

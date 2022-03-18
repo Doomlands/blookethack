@@ -5,7 +5,7 @@
 Only global codes are working with updates.
 6pm friday all codes will be updated.
 
-| Version | Supported          |
+| Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
 | game mode codes  | :x:                |

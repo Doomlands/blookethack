@@ -10,7 +10,7 @@ Only global codes are working with updates.
 | 500 coins  | :white_check_mark: |
 | game mode codes  | :x:                |
 | all answers correct  | :white_check_mark: |
-| code update in next 24 hours  | ✅               |
+| code update in next 24 hours  | :x:            |
 
 ## Reporting a Vulnerability
 

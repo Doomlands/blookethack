@@ -16,6 +16,8 @@ Only global codes are working with updates.
 
 
 :yellow_square:       =Finishing touches
+
+
 :x:                   =Not working        
 
 ## Reporting a Vulnerability

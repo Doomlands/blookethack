@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions
+## Before Using Code Please Read
 
 Only global codes are working with updates.
 6pm friday all codes will be updated.
@@ -25,3 +25,7 @@ Only global codes are working with updates.
 Use issues to report a glitch, bug, or mistake in global codes.
 
 Updates come atleast 2 times per week. NEVER ON WEEKENDS.
+
+
+
+Failure to read and understand security may result in 1 month ban on Blooket

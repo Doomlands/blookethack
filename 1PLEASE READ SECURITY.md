@@ -13,6 +13,8 @@ Only global codes are working with updates.
 | code update in next 24 hours  | :white_check_mark: 
 
 :white_check_mark:    =Working
+
+
 :yellow_square:       =Finishing touches
 :x:                   =Not working        
 

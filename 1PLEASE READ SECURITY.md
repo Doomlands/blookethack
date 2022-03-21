@@ -2,13 +2,12 @@
 
 ## Before Using Code Please Read
 
-Only global codes are working with updates.
-6pm friday all codes will be updated.
+All Codes Are Currently Working.
 
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
-| game mode codes  | ✅:            |
+| game mode codes  | ✅     |
 | all answers correct  | :white_check_mark: |
 | code update in next 24 hours  | :white_check_mark: 
 

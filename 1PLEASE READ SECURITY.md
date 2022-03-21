@@ -17,7 +17,11 @@ All Codes Are Currently Working.
 :yellow_square:       =Almost Working
 
 
-:x:                   =Not Working        
+:x:                   =Not Working    
+
+
+
+Updates Will Ocur Around 2:30pm or 8:30pm.
 
 ## Reporting a Vulnerability
 

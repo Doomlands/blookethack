@@ -8,17 +8,17 @@ Only global codes are working with updates.
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
-| game mode codes  | :yellow_square:            |
+| game mode codes  | ✅:            |
 | all answers correct  | :white_check_mark: |
 | code update in next 24 hours  | :white_check_mark: 
 
 :white_check_mark:    =Working
 
 
-:yellow_square:       =Finishing touches
+:yellow_square:       =Almost Working
 
 
-:x:                   =Not working        
+:x:                   =Not Working        
 
 ## Reporting a Vulnerability
 

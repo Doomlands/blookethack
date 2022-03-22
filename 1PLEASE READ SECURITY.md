@@ -9,7 +9,7 @@ All Codes Are Currently Working.
 | 500 coins  | :white_check_mark: |
 | game mode codes  | ✅     |
 | all answers correct  | :white_check_mark: |
-| code update in next 24 hours  | :white_check_mark: 
+| code update in next 24 hours  | :x: 
 
 :white_check_mark:    =Working
 
@@ -17,7 +17,10 @@ All Codes Are Currently Working.
 :yellow_square:       =Almost Working
 
 
-:x:                   =Not Working    
+:x:                   =Not Working  
+
+
+🟥                   = Code May result In Ban For 1 Month
 
 
 

@@ -8,7 +8,7 @@ All Codes Are Currently Working.
 | ------- | ------------------ |
 | 500 coins  | ✅ |
 | game mode codes  |white_check_mark   |
-| all answers correct  |:white_check_mark: |
+| all answers correct  |white_check_mark |
 | code update in next 24 hours  | ✅ 
 
 :white_check_mark:    =Working

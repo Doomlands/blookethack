@@ -7,7 +7,7 @@ All Codes Are Currently Working.
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :x: |
-| game mode codes  | 🟥:     |
+| game mode codes  | 🟥   |
 | all answers correct  |:x: |
 | code update in next 24 hours  | :x: 
 

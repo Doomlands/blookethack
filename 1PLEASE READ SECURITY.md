@@ -6,10 +6,10 @@ All Codes Are Currently Working.
 
 | Code |   Working        |
 | ------- | ------------------ |
-| 500 coins  | ✅: |
-| game mode codes  | 🟥   |
+| 500 coins  | ✅ |
+| game mode codes  |white_check_mark   |
 | all answers correct  |:white_check_mark: |
-| code update in next 24 hours  | ✅: 
+| code update in next 24 hours  | ✅ 
 
 :white_check_mark:    =Working
 

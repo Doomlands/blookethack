@@ -8,7 +8,7 @@ Other user's codes will get you banned
 
 
 
-Please always check MUST READ BEFORE USE document
+Please always check Security.MD document
 
 
 

@@ -15,15 +15,12 @@ All Codes Are Currently Working.
 :white_check_mark:    =Working
 
 
-:yellow_square:       =Almost Working
-
-
 :x:                   =Not Working  
 
 
 🟥                   = Code May result In Ban For 1 Month
 
-⬛                   = Code is under constuction or maintence 
+🟨                   = Code is under constuction or maintence 
 
 Updates Will Ocur Around 2:30pm or 8:30pm.
 

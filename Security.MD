@@ -2,14 +2,13 @@
 
 ## Before Using Code Please Read
 
-All Codes Are Currently Working.
 
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
 | game mode codes  |:red_square:   |
 | all answers correct  |:x:|
-| global codes | 🟨 |
+| global codes |:green_check_mark |
 | code update in next 24 hours  | ✅ 
 
 :white_check_mark:    =Working

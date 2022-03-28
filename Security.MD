@@ -6,7 +6,7 @@ All Codes Are Currently Working.
 
 | Code |   Working        |
 | ------- | ------------------ |
-| 500 coins  | ⬛ |
+| 500 coins  | :white_check_mark: |
 | game mode codes  |:red_square:   |
 | all answers correct  |:x:|
 | global codes | ⬛ |

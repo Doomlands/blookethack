@@ -8,8 +8,9 @@ You can always reach Park-Sauce or Gsnipes1 at parkerpaulott@gmail.com (Park-Sau
 
 
 
-I (GS) will respond withen the hour.
+I (GS) will respond within the hour.
 
+I (Park-Sauce) will respond within the hour
 
 Other user's codes will get you banned
 

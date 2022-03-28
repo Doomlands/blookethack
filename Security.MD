@@ -9,7 +9,7 @@ All Codes Are Currently Working.
 | 500 coins  | :white_check_mark: |
 | game mode codes  |:red_square:   |
 | all answers correct  |:x:|
-| global codes | ⬛ |
+| global codes | 🟨 |
 | code update in next 24 hours  | ✅ 
 
 :white_check_mark:    =Working
@@ -28,7 +28,7 @@ Updates Will Ocur Around 2:30pm or 8:30pm.
 
 Use issues to report a glitch, bug, or mistake in global codes.
 
-Updates come atleast 2 times per week. NEVER ON WEEKENDS.
+Updates come at least 2 times per week. NEVER ON WEEKENDSv (sometimes sunday nights).
 
 
 

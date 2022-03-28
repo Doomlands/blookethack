@@ -23,6 +23,7 @@ All Codes Are Currently Working.
 🟥                   = Code May result In Ban For 1 Month
 
 ⬛                   = Code is under constuction or maintence 
+
 Updates Will Ocur Around 2:30pm or 8:30pm.
 
 ## Reporting a Vulnerability

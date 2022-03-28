@@ -8,7 +8,7 @@
 | 500 coins  | :white_check_mark: |
 | game mode codes  |:red_square:   |
 | all answers correct  |:x:|
-| global codes |:green_check_mark: |
+| global codes | ✅ |
 | code update in next 24 hours  | ✅ 
 
 :white_check_mark:    =Working

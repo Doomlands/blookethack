@@ -27,7 +27,7 @@ Updates Will Ocur Around 2:30pm or 8:30pm.
 
 Use issues to report a glitch, bug, or mistake in global codes.
 
-Updates come at least 2 times per week. NEVER ON WEEKENDSv (sometimes sunday nights).
+Updates come at least 2 times per week. NEVER ON WEEKENDS (sometimes sunday nights).
 
 
 

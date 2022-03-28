@@ -6,7 +6,7 @@ All Codes Are Currently Working.
 
 | Code |   Working        |
 | ------- | ------------------ |
-| 500 coins  | ✅ |
+| 500 coins  | ⬛ |
 | game mode codes  |:red_square:   |
 | all answers correct  |:x:|
 | code update in next 24 hours  | ✅ 
@@ -22,8 +22,7 @@ All Codes Are Currently Working.
 
 🟥                   = Code May result In Ban For 1 Month
 
-
-
+⬛                   = Code is under constuction or maintence 
 Updates Will Ocur Around 2:30pm or 8:30pm.
 
 ## Reporting a Vulnerability

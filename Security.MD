@@ -32,4 +32,4 @@ Updates come atleast 2 times per week. NEVER ON WEEKENDS.
 
 
 
-Failure to read and understand security may result in 1 month ban on Blooket
+FAILURE TO READ AND UNDERSTAND TERMS AND CONDITION MAY RESULT IN 1 MONTH BAN ON BLOOKET

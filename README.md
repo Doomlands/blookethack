@@ -1,9 +1,14 @@
 # BlooketHacks
 ALWAYS CHECK SECURITY.MD BEFORE USING ANY CODES
-All Codes Are Currently Working
-Gsnipes1 is banned currently so Park-Sauce is managing the hacks for a couple of weeks
-You can always reach Park-Sauce or Gsnipes1 at parkerpaulott@gmail.com (Park-Sauce) or Gsnipes1@gmail.com (GS)
+All global codes Are Currently Working
 
+
+
+You can always reach Park-Sauce or Gsnipes1 at parkerpaulott@gmail.com (Park-Sauce) or grahamsnipes1@gmail.com (GS)
+
+
+
+I (GS) will respond withen the hour.
 
 
 Other user's codes will get you banned

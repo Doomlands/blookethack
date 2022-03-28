@@ -1,5 +1,8 @@
 # BlooketHacks
+ALWAYS CHECK SECURITY.MD BEFORE USING ANY CODES
 All Codes Are Currently Working
+Gsnipes1 is banned currently so Park-Sauce is managing the hacks for a couple of weeks
+You can always reach Park-Sauce or Gsnipes1 at parkerpaulott@gmail.com (Park-Sauce) or Gsnipes1@gmail.com (GS)
 
 
 
@@ -14,9 +17,8 @@ Please always check Security.MD document
 
 
 
-Sorry, hacks are going to be back soon. I have been very busy with the google forms hack. Also I am on vacation, so please be patient. 
 
 
 
 
-Thanks, Gsnipes1blookethacks,Park-Sauce
+Thanks, Gsnipes1blookethacks, Park-Sauce

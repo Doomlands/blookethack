@@ -1,9 +1,8 @@
 Working Hours
--------------------------
-| Mon  | 10:00am-8:30pm  |
-|Tues  | 10:00am-8:30pm  |
-|Wed   | 10:00am-8:30pm  |
-|Thurs | 10:00am-8:30pm  |
-|Fri   | 12:00pm-6:30pm  |
-|Sat   | not working     |
-|Sun   | not working     |
+| Working hours   |
+| ------- | ------------------ |
+| Mon  | 10:30-8:30 |
+| Tues  | 10:30-8:30 |
+| wed  | 9:30-7:30 |
+| Thurs | 11:00-6:00 |
+| Fri  | 12:00-5:30  |

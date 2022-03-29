@@ -6,7 +6,7 @@
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
-| game mode codes  |:yellow_square:   |
+| game mode codes  |:yellow_square: ⚫|
 | all answers correct  |:white_check_mark:|
 | global codes | ✅ |
 | code update in next 24 hours  | ✅ 
@@ -20,6 +20,8 @@
 🟥                   = Code May result In Ban For 1 Month
 
 🟨                   = Code is under constuction or maintence 
+
+⚫                   = Some codes work but not all
 
 Updates Will Ocur Around 2:30pm or 8:30pm.
 

@@ -1,4 +1,4 @@
-Working Hours
+
 | Working hours   |
 | ------- | ------------------ |
 | Mon  | 10:30-8:30 |

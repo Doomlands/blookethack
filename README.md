@@ -7,6 +7,9 @@ Global Codes:white_check_mark:
 
 
 
+Global codes updated daily.
+
+
 NEVER DISTRIBUTE CODE WITHOUT GIVING CREDIT TO THIS SOURCE!!!
 
 

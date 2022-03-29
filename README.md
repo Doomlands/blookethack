@@ -1,6 +1,10 @@
 # BlooketHacks
 ALWAYS CHECK SECURITY.MD BEFORE USING ANY CODES
-Global Codes:
+
+
+
+Global Codes:white_check_mark:
+
 
 
 NEVER DISTRIBUTE CODE WITHOUT GIVING CREDIT TO THIS SOURCE!!!

@@ -1,6 +1,6 @@
 # BlooketHacks
 ALWAYS CHECK SECURITY.MD BEFORE USING ANY CODES
-All global codes Are Currently Working
+Global Codes:
 
 
 NEVER DISTRIBUTE CODE WITHOUT GIVING CREDIT TO THIS SOURCE!!!
@@ -11,9 +11,7 @@ You can always reach Park-Sauce or Gsnipes1 at parkerpaulott@gmail.com (Park-Sau
 
 
 
-I (GS) will respond within the hour.
-
-I (Park-Sauce) will respond within the hour
+We will both respond withen the hour
 
 Other user's codes will get you banned
 
@@ -21,12 +19,6 @@ Other user's codes will get you banned
 
 
 Please always check Security.MD document
-
-
-
-  
-
-Shoutout to snowflake-coder for tower defense codes.
 
 
 

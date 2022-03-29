@@ -7,4 +7,3 @@ Working Hours
 |Fri   | 12:00pm-6:30pm  |
 |Sat   | not working     |
 |Sun   | not working     |
---------------------------

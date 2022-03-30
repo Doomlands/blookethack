@@ -28,7 +28,7 @@ Other user's codes will get you banned
 Please always check Security.MD document
 
 
-
+https://invite.duolingo.com/family-plan/1-AAAAADIEvMAAAEqJhIrpk_pB1LJzUVtgsSmq4A
 
 
 Thanks, Gsnipes1blookethacks, Park-Sauce

@@ -22,7 +22,7 @@
 
 ⚫                   = Some codes work but not all
 
-Updates Will Ocur Around 11:30 to 8:30pm.
+Updates Will Ocur Around 11:30am to 10:30pm
 
 ## Reporting a Vulnerability
 

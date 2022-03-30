@@ -20,7 +20,7 @@
 
 🟨                   = Code is under constuction or maintence 
 
-⚫                   = Some codes work but not all
+⚫                   = Some codes work
 
 Updates Will Ocur Around 11:30am to 10:30pm
 

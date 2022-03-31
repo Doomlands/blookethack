@@ -8,7 +8,7 @@
 | game mode codes  |:yellow_square: ⚫|
 | all answers correct  |:white_check_mark:|
 | global codes | ✅ |
-| code update in next 24 hours  | ❎ 
+| code update in next 24 hours  | :green_check_mark:|
 
 :white_check_mark:    =Working
 

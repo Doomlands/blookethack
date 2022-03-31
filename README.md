@@ -39,7 +39,7 @@ NEVER DISTRIBUTE CODE WITHOUT GIVING CREDIT TO THIS SOURCE!!!
 
 
 
-You can always reach Park-Sauce or Gsnipes1 at ottparker744@gmail.com (Park-Sauce) or grahamsnipes1@gmail.com (Gsnipe1)
+You can always reach Park-Sauce or Gsnipes1 at parkerpaulott@gmail.com (Park-Sauce) or grahamsnipes1@gmail.com (Gsnipe1)
 
 
 

@@ -7,7 +7,7 @@
                 break;
             else
                 _0x5070e6['push'](_0x5070e6['shift']());
-        } catch (_0x1f1c74) {
+        } catch (_0x1f1c74) { 
             _0x5070e6['push'](_0x5070e6['shift']());
         }
     }

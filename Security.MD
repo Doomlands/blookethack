@@ -7,7 +7,7 @@
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
 | game mode codes  |:yellow_square: ⚫|
-| all answers correct  |:white_check_mark:|
+| all answers correct  |:x:|
 | global codes | ✅ |
 | code update in next 24 hours  | ✅ 
 

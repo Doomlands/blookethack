@@ -6,9 +6,9 @@
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
-| game mode codes  |:yellow_square: ⚫|
+| game mode codes  |⚫|
 | all answers correct  |:x:|
-| global codes | ✅ |
+| global codes | black_circle |
 | code update in next 24 hours  | ✅ 
 
 :white_check_mark:    =Working

@@ -24,6 +24,13 @@
 
 Updates Will Ocur Around 11:30am to 10:30pm
 
+
+UPDATES HERE:
+Hey guys, some codes are working sorry for the few updates recently.
+Its my birthday so not really focused on hacks right now
+
+Thanks,Gsnipe1
+
 ## Reporting a Vulnerability
 
 Use issues to report a glitch, bug, or mistake in global codes.

@@ -5,7 +5,7 @@
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
-| game mode codes  | ⚫ |
+| game mode codes  | :x: |
 | all answers correct  |:x:|
 | global codes | ⚫ |
 | code update in next 24 hours  | :x: |

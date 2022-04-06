@@ -29,8 +29,9 @@ UPDATES HERE:
 
 
 
-Hey guys, some codes are working sorry for the few updates recently.
+Hey guys, some codes are working, sorry for the few updates recently.
 Its my birthday so not really focused on hacks right now
+
 
 Thanks,Gsnipe1
 

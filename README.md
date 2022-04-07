@@ -65,7 +65,7 @@ Other user's codes will get you banned
 
 
 
-Please always check Security.MD document
+Please always check Readme.MD document
 
 
 

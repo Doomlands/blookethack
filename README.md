@@ -2,12 +2,16 @@
 ## Before Using Code Please Read
 
 
+Free Coins Will Always Be working Unless Stated Otherwise.
+
+
+
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
 | game mode codes  | :x: |
 | all answers correct  |:x:|
-| global codes | ⚫ |
+| global codes | :x: |
 | code update in next 24 hours  | :x: |
 
 :white_check_mark:    =Working

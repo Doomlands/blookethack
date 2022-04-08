@@ -29,6 +29,11 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 Updates Will Ocur Around 11:30am to 10:30pm
 
 
+
+Forking must be aproved by me and only me if you fork this repository without permision you will be banned from this repository!!!
+
+
+
 UPDATES HERE:
 
 

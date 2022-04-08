@@ -9,10 +9,10 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | :white_check_mark: |
-| game mode codes  | ⬛: |
+| game mode codes  | ⬛ |
 | all answers correct  |:white_check_mark:|
-| global codes | ✅: |
-| code update in next 24 hours  | ✅: |
+| global codes | ✅ |
+| code update in next 24 hours  | ✅ |
 
 :white_check_mark:    =Working
 

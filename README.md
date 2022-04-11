@@ -32,7 +32,7 @@ Updates Will Ocur Around 11:30am to 10:30pm
 
 FORKING IS NOT PERMITED
 
-Forking must be aproved by me and only me if you fork this repository without permision you will be banned from this repository!!!
+Forking must be aproved by me and only me!!!! if you fork this repository without permision you will be banned from this repository!!!
 
 
 

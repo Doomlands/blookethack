@@ -11,7 +11,7 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 | 500 coins  | :white_check_mark: |
 | game mode codes  | 🟨⬛
 | all answers correct  |:x:|
-| global codes | ⬛ |
+| global codes | ⬛🟨🟥 |
 | code update in next 24 hours  | ✅ |
 
 :white_check_mark:    =Working
@@ -20,11 +20,11 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 :x:                   =Not Working  
 
 
-🟥                   = Code May result In Ban For 1 Month
+🟥                   = Code(s) May result In Ban For 1 Month
 
-🟨                   = Code is under constuction or maintence 
+🟨                   = Code(s) is under constuction or maintence 
 
-⬛                   = Some codes work
+⬛                   = Some code(s) work
 
 Updates Will Ocur Around 11:30am to 10:30pm
 

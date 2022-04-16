@@ -21,3 +21,4 @@ setInterval(() => {
 document.getElementsByTagName("iframe")[1].remove();
 document.getElementsByTagName("P")[0].parentElement.remove();
  
+ 

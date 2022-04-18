@@ -8,7 +8,7 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 
 | Code |   Working        |
 | ------- | ------------------ |
-| 500 coins  | :x: |
+| 500 coins  | :✅: |
 | game mode codes  | 🟨⬛
 | all answers correct  |:white_check_mark:|
 | global codes | ✅ |

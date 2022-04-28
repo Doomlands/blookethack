@@ -2,6 +2,9 @@
 ## Before Using Code Please Read
 
 
+
+PLEASE USE BLOOKET HACK MENU!!!      https://github.com/Gsnipe1blookethacks/Blookethack-menu
+
 Free Coins Will Always Be working Unless Stated Otherwise.
 
 

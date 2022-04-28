@@ -1,6 +1,6 @@
 function start()
 {
-	loadGUI();
+	loadGUI(); 
 	addUtils();
 }
 

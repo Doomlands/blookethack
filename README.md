@@ -13,7 +13,7 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 | all answers correct  |:white_check_mark:|
 | global codes | :white_check_mark: |
 | Blooket Hack Menu | ✅|
-| code update in next 24 hours  | ✅ |
+| code update in next 24 hours  | 🟥 |
 
 :white_check_mark:    =Working
 

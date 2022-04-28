@@ -43,15 +43,8 @@ Thanks, Park-Sauce, GS
 
 
 
-UPDATES HERE:
 
 
-
-Hey guys, some codes are working, sorry for the few updates recently.
-Its my birthday so not really focused on hacks right now
-
-
-Thanks,Gsnipe1
 
 ## Reporting a Vulnerability
 
@@ -67,8 +60,6 @@ FAILURE TO READ AND UNDERSTAND TERMS AND CONDITION MAY RESULT IN 1 MONTH BAN ON 
 NEVER DISTRIBUTE CODE WITHOUT GIVING CREDIT TO THIS SOURCE!!!
 
 
-
-You can always reach Park-Sauce or Gsnipes1 at parkerpaulott@gmail.com (Park-Sauce) or grahamsnipes1@gmail.com (Gsnipe1)
 
 
 

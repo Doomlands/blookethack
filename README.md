@@ -4,7 +4,7 @@
 
 
 
-Paste code into console to use all hacks, Some hacks will only appear in game. Thanks-Ohyesfps
+Paste code into console to use all hacks, Some hacks will only appear in game. Thanks-Ohyesfps and Park-Sauce
 
 
 PLEASE USE BLOOKET HACK MENU!!!      https://github.com/Gsnipe1blookethacks/Blookethack-menu
@@ -20,7 +20,7 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 | all answers correct  |:white_check_mark:|
 | global codes | :white_check_mark: |
 | Blooket Hack Menu | ✅|
-| code update in next 24 hours  | :x: |
+| code update in next 24 hours  | ✅ |
 
 
 

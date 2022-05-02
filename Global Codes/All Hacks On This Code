@@ -1335,7 +1335,7 @@ function addUtils()
 	CheckGame();
 }
 addUtils();
-setInterval(() =>
+setInterval(() => 
 {
 	CheckGame();
 }, 10000);

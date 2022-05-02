@@ -3,6 +3,10 @@
 
 
 
+
+Paste code into console to use all hacks, Some hacks will only appear in game. Thanks-Ohyesfps
+
+
 PLEASE USE BLOOKET HACK MENU!!!      https://github.com/Gsnipe1blookethacks/Blookethack-menu
 
 Free Coins Will Always Be working Unless Stated Otherwise.
@@ -12,25 +16,11 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 | Code |   Working        |
 | ------- | ------------------ |
 | 500 coins  | ✅ |
-| game mode codes  | 🟨⬛
+| game mode codes  | ✅
 | all answers correct  |:white_check_mark:|
 | global codes | :white_check_mark: |
 | Blooket Hack Menu | ✅|
 | code update in next 24 hours  | :x: |
-
-:white_check_mark:    =Working
-
-
-:x:                   =Not Working  
-
-
-🟥                   = Code(s) May result In Ban For 1 Month
-
-🟨                   = Code(s) is under constuction or maintence 
-
-⬛                   = Some code(s) work
-
-Updates Will Ocur Around 11:30am to 10:30pm
 
 
 

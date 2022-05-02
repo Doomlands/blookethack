@@ -30,7 +30,7 @@ chrome-extension://hniebljpgcogalllopnjokppmgbhaden/index.html#/my-videos/4
 
 FORKING IS NOT PERMITED
 
-Forking must be aproved by me and only me!!!! if you fork this repository without permision you will be banned from this repository!!! Reach out at grahamsnipes1@gmail.com or ottparker@gmail.com either of us will try to respond withen the hour, Thanks:)
+Forking must be aproved by me and only me!!!! if you fork this repository without permision you will be banned from this repository!!! Reach out at grahamsnipes1@gmail.com or ottparker744@gmail.com or parkerpaulott@gmail.com either of us will try to respond withen the hour, Thanks:)
 
 Thanks, Park-Sauce, GS
 

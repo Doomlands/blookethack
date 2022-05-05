@@ -4,7 +4,9 @@
 
 
 
-Paste code into console to use all hacks, Some hacks will only appear in game. Thanks-DOOMLANDS and Park-Sauce
+Paste code into console to use some hacks, Some hacks will only appear in game. Other hacks (blookmark hacks) will require you to make a new bookmark, then you must go to the url edit option of the new bookmark and paste the code into that box. Then clik save bookmark!   
+
+Thanks-DOOMLANDS and Park-Sauce
 
 
 
@@ -14,22 +16,19 @@ Free Coins Will Always Be working Unless Stated Otherwise.
 
 | Code |   Working        |
 | ------- | ------------------ |
-| 500 coins  | ✅ |
 | game mode codes  | ✅
-| all answers correct  |:white_check_mark:|
 | global codes | :white_check_mark: |
 | Blooket Hack Menu | ✅|
 | code update in next 24 hours  | ✅ |
 
 
 
-chrome-extension://hniebljpgcogalllopnjokppmgbhaden/index.html#/my-videos/4
 
 
 
 FORKING IS NOT PERMITED
 
-Forking must be aproved by me and only me!!!! if you fork this repository without permision you will be banned from this repository!!! Reach out at grahamsnipes1@gmail.com or ottparker744@gmail.com or parkerpaulott@gmail.com either of us will try to respond withen the hour, Thanks:)
+Forking must be aproved by me and only me!!!! if you fork this repository without permision you will be banned from this repository!!! Reach out at grahamsnipes1@gmail.com I will try to respond withen the hour, Thanks:)
 
 Thanks, Park-Sauce, GS
 
@@ -42,7 +41,7 @@ Thanks, Park-Sauce, GS
 
 Use issues to report a glitch, bug, or mistake in global codes.
 
-Updates come at least 2 times per week. NEVER ON WEEKENDS (sometimes sunday nights).
+Updates come at least 5 times per week. NEVER ON WEEKENDS (sometimes sunday nights).
 
 
 

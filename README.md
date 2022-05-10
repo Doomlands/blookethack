@@ -13,7 +13,9 @@ Paste code into console to use some hacks, Some hacks will only appear in game. 
 Thanks-DOOMLANDS and Park-Sauce
 
 
-Updates here:
+UPDATES HERE:
+
+
 New dino box will not currently register on the spam open boxes. Nothing bad will happen if you try and spam open but I am currently making a new code i will update this when the new code is live! Thanks for using this code!!!
 
 

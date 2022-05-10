@@ -32,7 +32,7 @@ New dino box will not currently register on the spam open boxes. Nothing bad wil
 
 
 
-FORKING IS NOT PERMITED
+FORKING IS NOW PERMITED!
 
 Forking must be aproved by me and only me!!!! if you fork this repository without permision you will be banned from this repository!!! Reach out at grahamsnipes1@gmail.com I will try to respond withen the hour, Thanks:)
 

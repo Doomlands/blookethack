@@ -28,12 +28,13 @@ https://github.com/Gsnipe1blookethacks/Duolingo-hack
 
 | Code |   Working        |
 | ------- | ------------------ |
-| game mode codes  | ✅
+| game mode codes  | ⬛ :red_square:
 | global codes | :white_check_mark: |
 | Blooket Hack Menu | ✅|
 | code update in next 24 hours  | ✅ |
 
-
+⬛=some codes working
+🟥=code may get you banned on blooket!!!
 
 
 

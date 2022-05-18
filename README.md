@@ -16,52 +16,15 @@ Thanks-DOOMLANDS and Park-Sauce
 UPDATES HERE:
 
 
-New dino box will not currently register on the spam open boxes. Nothing bad will happen if you try and spam open but I am currently making a new code i will update this when the new code is live! Thanks for using this code!!!
+Hey guys, this guy claimed that I stole his code and threatened me so I took down the codes. I will make new ones soon but for now try park-sauce's repos. I'm kinda upset rn because I spent more than 3 weeks on these codes. I tried to reason with him but he said he would file a lawsuit against me. I had no choice because I did not want to deal with that I am going to start from scratch abd make new codes in the coming weeks. Thanks so much for the support some of you guys have shown, it meant the world to me and I will continue to try to make the best codes possible:(
+
+Thanks so much for everything,Gsnipe1
 
 
 Pls check out my auto answer for duolingo here! 
 
 
 https://github.com/Gsnipe1blookethacks/Duolingo-hack
-
-
-
-| Code |   Working        |
-| ------- | ------------------ |
-| game mode codes  | ⬛ :red_square:
-| global codes | :white_check_mark: |
-| Blooket Hack Menu | ✅|
-| code update in next 24 hours  | ✅ |
-
-⬛=some codes working
-🟥=code may get you banned on blooket!!!
-
-
-
-
-FORKING IS NOW PERMITED!
-
-Forking must be aproved by me and only me!!!! if you fork this repository without permision you will be banned from this repository!!! Reach out at grahamsnipes1@gmail.com I will try to respond withen the hour, Thanks:)
-
-Thanks, Park-Sauce, GS
-
-
-
-
-
-
-## Reporting a Vulnerability
-
-Use issues to report a glitch, bug, or mistake in global codes.
-
-Updates come at least 5 times per week. NEVER ON WEEKENDS (sometimes sunday nights).
-
-
-
-FAILURE TO READ AND UNDERSTAND TERMS AND CONDITION MAY RESULT IN 1 MONTH BAN ON BLOOKET
-
-
-NEVER DISTRIBUTE CODE WITHOUT GIVING CREDIT TO THIS SOURCE!!!
 
 
 

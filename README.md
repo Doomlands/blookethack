@@ -1,16 +1,4 @@
-# BlooketHacks
-## Before Using Code Please Read
 
-
-
-
-THIS CODE IS IN JAVASCRIPT!!!                 CHECK THE TABLE BELOW FOR INFO!!!
-
-
-
-Paste code into console to use some hacks, Some hacks will only appear in game. Other hacks (blookmark hacks) will require you to make a new bookmark, then you must go to the url edit option of the new bookmark and paste the code into that box. Then clik save bookmark!   
-
-Thanks-DOOMLANDS and Park-Sauce
 
 
 UPDATES HERE:

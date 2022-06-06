@@ -1,9 +1,9 @@
 
-
+IT IS NOT MY FAULT IF YOU GET BANNED!!! DO NOT BLAME ME IF YOU HAPPEN TO GET BANNED!!!
 
 UPDATES HERE:
 
-New global codes will be coming soon.
+New global hacks out now!!! pls star. 
 
 Thanks so much for everything and stay frosty,Gsnipe1/Doomlands
 

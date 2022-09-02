@@ -1071,4 +1071,4 @@ addUtils();
 setInterval(() => {
     CheckGame();
 }, 10000);
-window.alert("Developed by gsnipe1blookethacks.");
+window.alert("Developed by gsnipe1blookethacks."); 

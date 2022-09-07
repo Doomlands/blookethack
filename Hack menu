@@ -1071,4 +1071,4 @@ addUtils();
 setInterval(() => {
     CheckGame();
 }, 10000);
-window.alert("Developed by Gsnipe1blookethacks. Click raw and alt at the same time to download.");
+window.alert("Developed by Gsnipe1blookethacks. Click raw and alt at the same time to download."); 

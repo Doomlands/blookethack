@@ -1,3 +1,5 @@
+Hey guys I took a break for about 5 months I am back now so will try to make regular updates for the codes. Right now only add tokens and flood game codes are running but I will try to make some more. Thanks all of you guys for the likes and I hope to hit 20 likes soon!
+
 MENU IS NOW UP AND RUNNING!
 IT IS NOT MY FAULT IF YOU GET BANNED!!! DO NOT BLAME ME IF YOU HAPPEN TO GET BANNED!!!
 

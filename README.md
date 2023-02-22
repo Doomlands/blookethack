@@ -1,4 +1,8 @@
-Daily alert ❗❗❗❗❗❗new shell shockers hack out now!
+Daily alert ❗❗❗❗❗❗All hacks working as of now but be carefull of ban!!!
+
+
+
+new shell shockers hack out now!
 
 https://github.com/Doomlands/shellshockershack
 

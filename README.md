@@ -1,4 +1,8 @@
-Daily alert ❗❗❗❗❗❗All hacks working as of now but be carefull of ban!!!
+Daily alert ❗❗❗❗❗❗Hey guys I will be adding new hacks shortly but first lets try to get to 30 stars!
+
+
+
+All hacks working as of now but be carefull of ban!!!
 
 
 

@@ -1,4 +1,4 @@
-Daily alert ❗❗❗❗❗❗Hey guys I will be adding new hacks shortly but first lets try to get to 30 stars!
+Daily http://essentials-premium-clothing.myshopify.com/
 
 
 

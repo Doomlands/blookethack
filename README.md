@@ -13,6 +13,11 @@ https://fde8d2-2.myshopify.com/
 '
 '
 
+| ADD  TOKENS   |       ✅      |
+| ------------- | ------------- |
+| GLOBAL HACKS  |       ❌     |
+| GAME MODE HX  |       ❌     |
+
 
 new shell shockers hack out now!
 
@@ -20,7 +25,8 @@ https://github.com/Doomlands/shellshockershack
 
 UPDATES HERE:
 
-all hacks down for the foreseeable future
+❌❌❌The only hack up is add tokens❌❌❌
+
 
 Thanks so much for everything and stay frosty, Gsnipe1/Doomlands
 
